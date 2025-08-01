@@ -1,4 +1,42 @@
-body{
-    background-color: black;
-    color: white;
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gold;
+    color: green;
+    min-height: 100vh;
+    width: 100vw;
+}
+h1{
+    font-size: 20px;
+}
+.content{
+    line-height: 25px;
+    color: darkgray;
+}
+.card{
+    border: 1px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 20px;
+    background-color: white;
+    max-width: 30rem;
+    box-shadow: 10px 10px black;
+}
+
+.headerImg{
+    border-radius: 5px;
+    width: 100%;
+}
+.tag{
+    padding: 10px;
+    background-color: gold;
+    border-radius: 8px;
+    width: fit-content;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: 300;
 }
