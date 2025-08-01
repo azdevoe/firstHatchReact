@@ -11,7 +11,7 @@ function Helloworld(){
             <h1>html&css foundation</h1>
             <p className="content">these languages are backbne of every website defining content, structure and presentation </p>
             <div className="profile">
-              <img src="https://th.bing.com/th/id/OIP.xAohzJ4-VCCTQKC1OMtrQwHaEo?w=281&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="" />
+              <img className="profileImage" src="https://th.bing.com/th/id/OIP.xAohzJ4-VCCTQKC1OMtrQwHaEo?w=281&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="" />
               <p>vengance</p>
             </div>
 

@@ -20,7 +20,7 @@ h1{
     overflow: hidden;
     padding: 20px;
     background-color: white;
-    max-width: 30rem;
+    max-width: 17rem;
     box-shadow: 10px 10px black;
 }
 
@@ -39,4 +39,10 @@ h1{
     align-items: center;
     gap: 5px;
     font-weight: 300;
+}
+
+.profileImage{
+width: 50px;
+height: 50px;
+border-radius: 100%;
 }
